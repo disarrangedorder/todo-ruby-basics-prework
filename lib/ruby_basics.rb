@@ -23,7 +23,7 @@ def last_evaluated_value
 
 end
 
-def pizza_party (argue="chese")
+def pizza_party (argue="cheese")
   argue
 
 end
